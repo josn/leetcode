@@ -10,5 +10,6 @@
 
  | # | Name | Difficulty |
  |:-:|:-|:-|
+ | [0003](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Longest Substring Without Repeating Characters](./algorithms/0003.longest-substrings) | Medium |
  | [0002](https://leetcode.com/problems/add-two-numbers/) | [Add Two Numbers](./algorithms/0002.add-two-numbers) | Medium |
  | [0001](https://leetcode.com/problems/two-sum/) | [Two Sum](./algorithms/0001.two-sum) | Easy |
