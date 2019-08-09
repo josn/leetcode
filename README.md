@@ -10,7 +10,8 @@
 
  | # | Name | Difficulty |
  |:-:|:-|:-|
- | [0008](https://leetcode.com/problems/string-to-integer-atoi/) | [String to Integer (atoi)](./algorithms/0008.string-to-integer-atoi) | Easy |
+ | [0009](https://leetcode.com/problems/palindrome-number/) | [Palindrome Number](./algorithms/0009.palindrome-number) | Easy |
+ | [0008](https://leetcode.com/problems/string-to-integer-atoi/) | [String to Integer (atoi)](./algorithms/0008.string-to-integer-atoi) | Medium |
  | [0007](https://leetcode.com/problems/reverse-integer/) | [Reverse Integer](./algorithms/0007.reverse-integer) | Easy |
  | [0006](https://leetcode.com/problems/zigzag-conversion/) | [ZigZag Conversion](./algorithms/0006.zigzag-conversion) | Medium |
  | [0005](https://leetcode.com/problems/longest-palindromic-substring) | [Longest Palindromic Substring](./algorithms/0005.longest-palindromic-substring) | Medium |
